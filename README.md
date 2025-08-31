@@ -1,7 +1,7 @@
 # Confluent_Kafka_Real_Time_Streaming_Project
 This repo contains details about leveraging the Confluent Cloud Kafka for performing real time streaming project leveraging retail sales data and to perform end to end solutions, Thanks
 
-**Project Details: **
+**Project Details:**
 
 In this project, I have used sample retail csv data sets for my hands-on into Confluent Cloud Kafka, Please find step by step details below:
 1. Creation of the account in the Confluent Cloud Application : https://www.confluent.io/confluent-cloud/
